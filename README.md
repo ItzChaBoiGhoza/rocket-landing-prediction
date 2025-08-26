@@ -11,6 +11,8 @@ This project was completed as part of the [IBM Data Science Professional Certifi
 - Apply clustering and/or predictive modeling techniques.
 - Communicate results through visualizations and a final report.
 
+## 📈 Results
+
 ## 🏃 How to Run
 1. Clone this repository:
 ```
