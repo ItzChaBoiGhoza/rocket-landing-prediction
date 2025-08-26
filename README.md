@@ -11,6 +11,10 @@ This project was completed as part of the [IBM Data Science Professional Certifi
 - Apply clustering and/or predictive modeling techniques.
 - Communicate results through visualizations and a final report.
 
+## Tools & Technologies
+- **Python**: Pandas, Numpy, Scikit-learn, Matplotlibm Seaborn, Folium
+- **Environment**: Jupyter Notebook
+
 ## 📈 Results
 
 ## 🏃 How to Run
