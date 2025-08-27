@@ -20,11 +20,11 @@ This project was completed as part of the [IBM Data Science Professional Certifi
 ## 🏃 How to Run
 1. Clone this repository:
 ```
-git clone
+git clone git@github.com:ItzChaBoiGhoza/rocket-reuse-prediction.git
 ```
 2. Navigate into the project folder:
 ```
-cd folder
+cd rocket-reuse-prediction
 ```
 3. Open Jupyter Notebook and run the notebooks step-by-step:
 ```
