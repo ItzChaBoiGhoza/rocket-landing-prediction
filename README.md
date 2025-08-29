@@ -16,7 +16,7 @@ This project was completed as part of the [IBM Data Science Professional Certifi
 - **Environment**: Jupyter Notebook
 
 ## 📈 Results
-After model training, the result shows that Decesion Tree got the highest training accuracy (0.89), meanwhile K-Nearest Neighbor got the lowest accuracy (0.8). But, when given unseen test set, Logistic Regression and SVM got the highest accuracy of (0.94) showing that they are able to adapt to new data. Despite the Decision Tree having the highest accuracy on training data, it has the lowest test accuracy with (0.83) suggesting a little overfitting.
+After model training, the result shows that Decision Tree got the highest training accuracy (0.89), meanwhile K-Nearest Neighbor got the lowest accuracy (0.8). But, when given unseen test set, Logistic Regression and SVM got the highest accuracy of (0.94) showing that they are able to adapt to new data. Despite the Decision Tree having the highest accuracy on training data, it has the lowest test accuracy with (0.83) suggesting a little overfitting.
 
 In simple way, the training results suggest that the dataset benefit more with simpler linear models like Logistic Regression and SVM, while the other models like Decision tree based might require more tuning to avoid overfitting.
 
